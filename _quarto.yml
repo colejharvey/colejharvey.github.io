@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: .
 
 website:
   title: "Cole J. Harvey, PhD"

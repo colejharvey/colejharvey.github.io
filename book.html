@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -86,12 +105,12 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./cv.html" rel="" target="">
  <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html" rel="" target="">
+ <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./book.html" rel="" target="" aria-current="page">
@@ -129,12 +148,60 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Ruling parties in authoritarian regimes have a broad range of tools with which to influence election outcomes, including ballot-stuffing, falsification, voter-pressure, vote-buying, and more. What limits authoritarian incumbents’ ability to manipulate elections in their favor using these tools? What enables such manipulation?</p>
-<p>These questions get to the heart of contemporary non-democratic government. The average authoritarian regime today relies on regular, multiparty elections to perpetuate itself in office.</p>
+<p>Most authoritarian regimes today hold multiparty elections. This elections help prop up authoritarian rulers in many ways: by revealing useful information about the population, the opposition, and elites; by channeling politicians’ ambitions within the system, and by providing a mechanism for allocating rewards to regime supporters. Despite these benefits, elections provide an opportunity for opposition actors to challenge the regime, creating a moment of considerable risk for authoritarian rulers.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/62e80-bolotnaya-wiki-2.jpg" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption class="figure-caption">‘For Fair Elections’ protest in Russia</figcaption>
+</figure>
+</div>
+<p>Ruling parties in authoritarian regimes manage this risk, in part, through illicit forms of election manipulation: ballot-stuffing, falsification, voter-pressure, vote-buying, and more. Since elections and election manipulation are central to contemporary non-democratic government, scholars and policymakers have worked to understand that factors that enable or restrain the use of illicit manipulation tools.</p>
+<p>A conventional wisdom in studies of electoral manipulation holds that the more severely an incumbent manipulates an election, the more likely mass protest becomes. It is frequently held that this risk of protest, which is costly and dangerous for incumbents, acts as a brake on electoral manipulation. Cross-national tests of this assumption are scarce, however, and evidence from within cases is ambiguous.</p>
+<p>This book investigates and challenges that assumption, while building an alternative theory of electoral manipulation, and the relationship between rigged elections and and electoral protest in non-democracies.</p>
+<section id="theory" class="level2">
+<h2 class="anchored" data-anchor-id="theory">Theory</h2>
+<p>The theory presented in this book, which I call the <em>regime-strength model of electoral manipulation</em> builds on prior work showing that rigged elections can signal incumbent strength, rather than weakness <span class="citation" data-cites="simpser2013">(<a href="#ref-simpser2013" role="doc-biblioref">Simpser 2013</a>)</span>, adding newer insights from studies of the principal-agent dynamics inherent in election manipulation efforts <span class="citation" data-cites="Harvey2019 rundlett2016deliver">(<a href="#ref-Harvey2019" role="doc-biblioref">Harvey 2019</a>; <a href="#ref-rundlett2016deliver" role="doc-biblioref">Rundlett and Svolik 2016</a>)</span>.</p>
+<p>In brief, the theory holds that that where incumbents face more significant opposition challenges, they invest more in tools of social control—centralizing patronage resources, investing in the repressive apparatus, and reducing judicial independence, among other techniques. These efforts, in turn, enable more extensive electoral manipulation by reducing principal-agent problems that exist between political leaders and the front-line actors who must do the work of rigging an election.</p>
+<p>In this view, the ability of the opposition to mobilize supporters is not a deterrent to manipulation for incumbents; rather, it is an impetus to develop an ever more effective machinery of electoral manipulation. The positive correlation that has been observed between severity of electoral manipulation and electoral protest is argued to be spurious, confounded by opposition strength. Stronger opposition groups are more likely to protest elections regardless of their integrity, and their strength motivates incumbents to invest in tools that make election integrity more effective by reducing agency loss.</p>
+<p>The theory makes several predictions, many of which are contrary to the predictions in the existing literature. First, election manipulation should be positively associated with protest, <em>and</em> with pre-election indicators of opposition strength. Second, when electoral protest does occur, incumbents that manipulated the election more extensively should be able to prevail more quickly than incumbents that held cleaner elections. Finally, it predicts that electoral manipulation is disrupted not by protest risk (a threat to incumbents), but by domestic factors that increase the cost of manipulation to front-line agents. The legal risk for breaking the electoral law is one such factor.</p>
+</section>
+<section id="data-methods-and-empirical-findings" class="level2">
+<h2 class="anchored" data-anchor-id="data-methods-and-empirical-findings">Data, methods, and empirical findings</h2>
+<p>The book’s hypotheses are tested using multiple data sources, including:</p>
+<ul>
+<li>Cross-national statistical analysis of estimated levels of election manipulation and protest occurrence and duration (1990 - 2012).</li>
+<li>Election-forensic analysis of over 1,000,000 precinct-level election results from Russia (2002 - 2021),</li>
+<li>Election-forensic analysis of precinct-level election results from nine national elections in Ukraine (2002 - 2014).</li>
+<li>The text of thousands of court rulings in Russian courts, dealing with incidents of alleged electoral manipulation.</li>
+</ul>
+<p>Contrary to most of the literature, this analysis finds that heightened protest risk is associated with <em>worse</em> election integrity, and that the best election manipulators are the same regimes that quash protest movements most quickly. This raises the specter of a vicious cycle, in which more effective electoral manipulation helps build stronger regimes, which can more easily defeat protesters, which then further strengthens the regime. This cycle is the mirror image of the optimistic one envisioned by some scholars, in which protest risk begets cleaner elections <span class="citation" data-cites="fearon_self-enforcing_2011">(<a href="#ref-fearon_self-enforcing_2011" role="doc-biblioref">Fearon 2011</a>)</span>.</p>
+<p>The book then investigates the conditions that do undermine the machinery of manipulation. Emphasizing the principal-agent relationship inherent in manipulation efforts, election-forensic analysis shows that when front-line agents tasked with breaking electoral rules face greater personal risks, patterns of manipulation change. When local risks are higher, election manipulation shifts from cost-efficient fraud to costly (but less individually risky) techniques like vote-buying and voter pressure. As these local risks increase, including the risk of criminal conviction, the machinery of manipulation begins to break down–leading to cleaner elections.</p>
+</section>
+<section id="implications" class="level2">
+<h2 class="anchored" data-anchor-id="implications">Implications</h2>
+<p>The results presented in the book challenge a traditional model of election manipulation, in which an incumbent’s efforts to pad their vote-share is a sign of weakness. By integrating insights from the principal-agent literature with Simpser’s view of manipulation as a potential signal of strength, a new model emerges in which electoral manipulation in non-democracies is more-or-less incidental to the level of manipulation. It shows that electoral protest should not be conceived as a potential deterrent to election manipulation, but rather a potential accelerant. It suggests that our understanding of how elections turn into moments of democratic liberalization or autocratization hinges less on the protest capacity of the opposition, and more on the ability of ruling parties to reward their agents and shield them from personal risk. This points the way to further avenues of research for scholars, and to different policy implications for those who wish to improve citizens’ ability to hold their rulers accountable through elections.</p>
+</section>
+<section id="references" class="level2">
 
 
 
-</main> <!-- /main -->
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-fearon_self-enforcing_2011" class="csl-entry" role="listitem">
+Fearon, James D. 2011. <span>“Self-Enforcing Democracy.”</span> <em>The Quarterly Journal of Economics</em> 126 (4): 1661–1708.
+</div>
+<div id="ref-Harvey2019" class="csl-entry" role="listitem">
+Harvey, Cole J. 2019. <span>“<span class="nocase">Principal–Agent Dynamics and Electoral Manipulation: Local Risks, Patronage and Tactical Variation in Russian Elections, 2003–2012</span>.”</span> <em>Europe - Asia Studies</em> 8136: 2003–12. <a href="https://doi.org/10.1080/09668136.2019.1681363">https://doi.org/10.1080/09668136.2019.1681363</a>.
+</div>
+<div id="ref-rundlett2016deliver" class="csl-entry" role="listitem">
+Rundlett, Ashlea, and Milan W. Svolik. 2016. <span>“Deliver the <span>Vote</span>! <span>Micromotives</span> and Macrobehavior in Electoral Fraud.”</span> <em>The American Political Science Review</em> 110 (1): 180.
+</div>
+<div id="ref-simpser2013" class="csl-entry" role="listitem">
+Simpser, Alberto. 2013. <em><span class="nocase">Why governments and parties manipulate elections: Theory, practice, and implications</span></em>. <a href="https://doi.org/10.1017/CBO9781139343824">https://doi.org/10.1017/CBO9781139343824</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
