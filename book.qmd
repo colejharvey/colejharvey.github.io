@@ -14,7 +14,7 @@ A conventional wisdom in studies of electoral manipulation holds that the more s
 
 This book investigates and challenges that assumption, while building an alternative theory of electoral manipulation, and the relationship between rigged elections and and electoral protest in non-democracies.
 
-## Theory
+## Theory: Survival of the fraudulent
 
 The theory presented in this book, which I call the *regime-strength model of electoral manipulation* builds on prior work showing that rigged elections can signal incumbent strength, rather than weakness [@simpser2013], adding newer insights from studies of the principal-agent dynamics inherent in election manipulation efforts [@Harvey2019; @rundlett2016deliver].
 
