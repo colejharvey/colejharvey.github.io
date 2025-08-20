@@ -1,0 +1,42 @@
+---
+title: "Cole J. Harvey, PhD"
+format: html
+---
+
+```{r libraries, message=FALSE, warning=FALSE, echo=FALSE}
+library(fontawesome)
+
+```
+
+::: {.grid .gap-4 .align-items-start}
+<!-- Left Column: Contact Card -->
+
+::: {.g-col-12 .g-col-md-4}
+![](images/profile.jpg){.rounded-profile width="160"}
+
+Assistant Professor of Political Science\
+Oklahoma State University
+
+<div>
+
+-   `r fa("orcid")` [ORCID](https://orcid.org/0000-0001-8202-250X)
+-   `r fa("graduation-cap")` [Google Scholar](https://scholar.google.com/citations?user=8HbBW2oAAAAJ&hl=en)
+-   `r fa("cloud")` [BlueSky](https://bsky.app/profile/colejharvey.bsky.social)
+-   `r fa("envelope")` [Email](mailto:cole.j.harvey@okstate.edu)
+
+</div>
+:::
+
+<!-- Right Column: Bio and Links -->
+
+::: {.g-col-12 .g-col-md-8}
+## Welcome
+
+Hello and welcome!  I am a political scientist who studies non-democratic politics, with a particular focus on electoral manipulation in authoritarian and hybrid regimes. My geographic area of expertise is Russia and the post-communist world. I received my PhD from the University of North Carolina -- Chapel Hill in May 2019; I held a post-doctoral fellowship at the Center for Russia, East Europe, and Central Asia at the University of Wisconsin -- Madison, and am currently an assistant professor at Oklahoma State University.
+
+-   📄 [Curriculum Vitae](cv.qmd)
+-   📘 [Book project: The Machinery of Manipulation](book.qmd)
+
+I use multiple tools in my research, including statistical analysis, methods for causal inference (such as regression-discontinuity designs and pre-processing techniques), field interviews, archival study, and survey-experimental research. My work has been published in the [*American Political Science Review*](https://doi.org/10.1017/S0003055422000090), [*Electoral Studies*](https://doi.org/10.1016/j.electstud.2015.11.004), [*Democratization*](http://dx.doi.org/10.1080/13510347.2017.1304380), and [*Government and Opposition*](https://www.cambridge.org/core/journals/government-and-opposition/article/methods-of-election-manipulation-and-the-likelihood-of-postelection-protest/CD08A891E3804C45D28F31E07828AD00), [*Europe-Asia Studies*](https://doi.org/10.1080/09668136.2019.1681363), and *Russian Politics*.
+:::
+:::

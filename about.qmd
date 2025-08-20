@@ -1,0 +1,12 @@
+---
+title: "About"
+format: html
+---
+
+I am a political scientist specializing in .... My work combines field research, statistical analysis, and archival sources.
+
+You can reach me at:\
+📧 cole.j.harvey\@okstate.edu\
+📍 Based in \[Your Location\]
+
+[Download my CV (PDF)](cv.pdf)

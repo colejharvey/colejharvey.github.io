@@ -1,0 +1,13 @@
+---
+title: "icon-test"
+editor: visual
+---
+
+```{r libraries, message=FALSE, warning=FALSE, echo=FALSE}
+library(fontawesome)
+
+```
+
+- `r fa("orcid")` [ORCID](https://orcid.org/0000-0001-8202-250X)
+- `r fa("graduation-cap")` [Google Scholar](https://scholar.google.com/citations?user=8HbBW2oAAAAJ&hl=en)
+- `r fa("cloud")` [BlueSky](https://bsky.app/profile/colejharvey.bsky.social)

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Cole J. Harvey, PhD"
+  navbar: 
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Book project"
+        href: book.qmd
+  page-footer:
+    center: "© 2025 Cole Harvey"
+format:
+  html:
+    theme: sandstone
+    css: styles.css

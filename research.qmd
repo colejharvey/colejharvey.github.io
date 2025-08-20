@@ -1,0 +1,30 @@
+---
+title: "Research"
+editor: visual
+---
+
+My research interests focus on the politics of non-democratic regimes, with a particular focus on elections in authoritarian and partially democratic countries. I am particularly interested in understanding the causes and consequences of electoral manipulation. My research often investigates two interrelated questions: Why are some elections manipulated more severely than others, and why do the tactics used to tamper with elections vary both geographically and over time? A better understanding of these questions will enable practitioners to better monitor and improve election integrity, and will inform social scientists' knowledge of theoretically significant phenomena like autocratization, democratization, and regime consolidation.
+
+My book project, [*The Machinery of Manipulation*](book.html), challenges and tests some fundamental assumptions about the relationship between election rigging and post-election protest. Contrary to most of the literature, it finds that heightened protest risk is associated with *worse* election integrity, and that the best election manipulators are the same regimes that quash protest movements most quickly. I then turn the focus on the front-line actors who do the work of tampering with elections (especially local election officials), showing that when their incentives to not align with those of their political patrons, election integrity improves. This causal mechanism is demonstrated through statistical and election forensic analysis, showing that when local officials are punished in court for election manipulation, election integrity improves in nearby precincts in the next election.
+
+My other peer-reviewed research can be found below, or via my Google Scholar profile.
+
+### Peer-reviewed publications
+
+-   Election Manipulation in Russia, *Oxford Research Encyclopedia* <https://dx.doi.org/10.1093/acrefore/9780190228637.013.2260> (2024)
+
+-   Why Allow Local Elections? Mobilization, Manipulation, and the Abolition of Russian Mayoral Elections, *Russian Politics* <https://doi.org/10.30965/24518921-00604019>(2022)
+
+    -   Ungated version [here](harvey_cole_j_election_cancellation_v2.pdf).
+
+-   [Who delivers the votes? Elected versus appointed local executives, election manipulation, and natural support for ruling parties](https://dx.doi.org/10.1016/j.electstud.2022.102455), *Electoral Studies* (2022)
+
+-   [Can Courts in Nondemocracies Deter Election Fraud? De Jure Judicial Independence, Political Competition, and Election Integrity](https://dx.doi.org/10.1017/S0003055422000090), *American Political Science Review* (2021)
+
+-   [Principal--Agent Dynamics and Electoral Manipulation: Local Risks, Patronage and Tactical Variation in Russian Elections, 2003--2012](https://dx.doi.org/10.1080/09668136.2019.1681363), *Europe-Asia Studies* (2020)
+
+-   [Methods of Election Manipulation and the Likelihood of Post-Election Protest](https://dx.doi.org/10.1017/gov.2018.38), *Government and Opposition*; with Paula Mukherjee. (2018)
+
+-   [Trials, lustration, and clean elections: the uneven effects of transitional justice mechanisms on electoral manipulation](https://dx.doi.org/10.1080/13510347.2017.1304380), *Democratization*; with Claire Greenstein. (2017)
+
+-   [Changes in the menu of manipulation: Electoral fraud, ballot stuffing, and voter pressure in the 2011 Russian election](https://dx.doi.org/10.1016/j.electstud.2015.11.004); *Electoral Studies* Vol. 41 (2016)

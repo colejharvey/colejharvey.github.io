@@ -1,0 +1,6 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+[Click here to view/download my CV (PDF)](harvey_cole_j_cv.pdf)
