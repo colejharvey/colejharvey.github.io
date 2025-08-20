@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "icon-test",
+    "section": "",
+    "text": "ORCID\n Google Scholar\n BlueSky"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Click here to view/download my CV (PDF)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a political scientist specializing in …. My work combines field research, statistical analysis, and archival sources.\nYou can reach me at:\n📧 cole.j.harvey@okstate.edu\n📍 Based in [Your Location]\nDownload my CV (PDF)"
+  },
+  {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "Book project: The Machinery of Manipulation",
+    "section": "",
+    "text": "Most authoritarian regimes today hold multiparty elections. This elections help prop up authoritarian rulers in many ways: by revealing useful information about the population, the opposition, and elites; by channeling politicians’ ambitions within the system, and by providing a mechanism for allocating rewards to regime supporters. Despite these benefits, elections provide an opportunity for opposition actors to challenge the regime, creating a moment of considerable risk for authoritarian rulers.\nRuling parties in authoritarian regimes manage this risk, in part, through illicit forms of election manipulation: ballot-stuffing, falsification, voter-pressure, vote-buying, and more. Since elections and election manipulation are central to contemporary non-democratic government, scholars and policymakers have worked to understand that factors that enable or restrain the use of illicit manipulation tools.\nA conventional wisdom in studies of electoral manipulation holds that the more severely an incumbent manipulates an election, the more likely mass protest becomes. It is frequently held that this risk of protest, which is costly and dangerous for incumbents, acts as a brake on electoral manipulation. Cross-national tests of this assumption are scarce, however, and evidence from within cases is ambiguous.\nThis book investigates and challenges that assumption, while building an alternative theory of electoral manipulation, and the relationship between rigged elections and and electoral protest in non-democracies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cole J. Harvey, PhD",
+    "section": "",
+    "text": "Assistant Professor of Political Science\nOklahoma State University\n\n\n ORCID\n Google Scholar\n BlueSky\n Email\n\n\n\n\n\n\nHello and welcome!  I am a political scientist who studies non-democratic politics, with a particular focus on electoral manipulation in authoritarian and hybrid regimes. My geographic area of expertise is Russia and the post-communist world. I received my PhD from the University of North Carolina – Chapel Hill in May 2019; I held a post-doctoral fellowship at the Center for Russia, East Europe, and Central Asia at the University of Wisconsin – Madison, and am currently an assistant professor at Oklahoma State University.\n\n📄 Curriculum Vitae\n📘 Book project: The Machinery of Manipulation\n\nI use multiple tools in my research, including statistical analysis, methods for causal inference (such as regression-discontinuity designs and pre-processing techniques), field interviews, archival study, and survey-experimental research. My work has been published in the American Political Science Review, Electoral Studies, Democratization, and Government and Opposition, Europe-Asia Studies, and Russian Politics."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Cole J. Harvey, PhD",
+    "section": "",
+    "text": "Hello and welcome!  I am a political scientist who studies non-democratic politics, with a particular focus on electoral manipulation in authoritarian and hybrid regimes. My geographic area of expertise is Russia and the post-communist world. I received my PhD from the University of North Carolina – Chapel Hill in May 2019; I held a post-doctoral fellowship at the Center for Russia, East Europe, and Central Asia at the University of Wisconsin – Madison, and am currently an assistant professor at Oklahoma State University.\n\n📄 Curriculum Vitae\n📘 Book project: The Machinery of Manipulation\n\nI use multiple tools in my research, including statistical analysis, methods for causal inference (such as regression-discontinuity designs and pre-processing techniques), field interviews, archival study, and survey-experimental research. My work has been published in the American Political Science Review, Electoral Studies, Democratization, and Government and Opposition, Europe-Asia Studies, and Russian Politics."
+  },
+  {
+    "objectID": "book.html#theory",
+    "href": "book.html#theory",
+    "title": "Book project: The Machinery of Manipulation",
+    "section": "Theory",
+    "text": "Theory\nThe theory presented in this book, which I call the regime-strength model of electoral manipulation builds on prior work showing that rigged elections can signal incumbent strength, rather than weakness (Simpser 2013), adding newer insights from studies of the principal-agent dynamics inherent in election manipulation efforts (Harvey 2019; Rundlett and Svolik 2016).\nIn brief, the theory holds that that where incumbents face more significant opposition challenges, they invest more in tools of social control—centralizing patronage resources, investing in the repressive apparatus, and reducing judicial independence, among other techniques. These efforts, in turn, enable more extensive electoral manipulation by reducing principal-agent problems that exist between political leaders and the front-line actors who must do the work of rigging an election.\nIn this view, the ability of the opposition to mobilize supporters is not a deterrent to manipulation for incumbents; rather, it is an impetus to develop an ever more effective machinery of electoral manipulation. The positive correlation that has been observed between severity of electoral manipulation and electoral protest is argued to be spurious, confounded by opposition strength. Stronger opposition groups are more likely to protest elections regardless of their integrity, and their strength motivates incumbents to invest in tools that make election integrity more effective by reducing agency loss.\nThe theory makes several predictions, many of which are contrary to the predictions in the existing literature. First, election manipulation should be positively associated with protest, and with pre-election indicators of opposition strength. Second, when electoral protest does occur, incumbents that manipulated the election more extensively should be able to prevail more quickly than incumbents that held cleaner elections. Finally, it predicts that electoral manipulation is disrupted not by protest risk (a threat to incumbents), but by domestic factors that increase the cost of manipulation to front-line agents. The legal risk for breaking the electoral law is one such factor."
+  },
+  {
+    "objectID": "book.html#data-methods-and-empirical-findings",
+    "href": "book.html#data-methods-and-empirical-findings",
+    "title": "Book project: The Machinery of Manipulation",
+    "section": "Data, methods, and empirical findings",
+    "text": "Data, methods, and empirical findings\nThe book’s hypotheses are tested using multiple data sources, including:\n\nCross-national statistical analysis of estimated levels of election manipulation and protest occurrence and duration (1990 - 2012).\nElection-forensic analysis of over 1,000,000 precinct-level election results from Russia (2002 - 2021),\nElection-forensic analysis of precinct-level election results from nine national elections in Ukraine (2002 - 2014).\nThe text of thousands of court rulings in Russian courts, dealing with incidents of alleged electoral manipulation.\n\nContrary to most of the literature, this analysis finds that heightened protest risk is associated with worse election integrity, and that the best election manipulators are the same regimes that quash protest movements most quickly. This raises the specter of a vicious cycle, in which more effective electoral manipulation helps build stronger regimes, which can more easily defeat protesters, which then further strengthens the regime. This cycle is the mirror image of the optimistic one envisioned by some scholars, in which protest risk begets cleaner elections (Fearon 2011).\nThe book then investigates the conditions that do undermine the machinery of manipulation. Emphasizing the principal-agent relationship inherent in manipulation efforts, election-forensic analysis shows that when front-line agents tasked with breaking electoral rules face greater personal risks, patterns of manipulation change. When local risks are higher, election manipulation shifts from cost-efficient fraud to costly (but less individually risky) techniques like vote-buying and voter pressure. As these local risks increase, including the risk of criminal conviction, the machinery of manipulation begins to break down–leading to cleaner elections."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests focus on the politics of non-democratic regimes, with a particular focus on elections in authoritarian and partially democratic countries. I am particularly interested in understanding the causes and consequences of electoral manipulation. My research often investigates two interrelated questions: Why are some elections manipulated more severely than others, and why do the tactics used to tamper with elections vary both geographically and over time? A better understanding of these questions will enable practitioners to better monitor and improve election integrity, and will inform social scientists’ knowledge of theoretically significant phenomena like autocratization, democratization, and regime consolidation.\nMy book project, The Machinery of Manipulation, challenges and tests some fundamental assumptions about the relationship between election rigging and post-election protest. Contrary to most of the literature, it finds that heightened protest risk is associated with worse election integrity, and that the best election manipulators are the same regimes that quash protest movements most quickly. I then turn the focus on the front-line actors who do the work of tampering with elections (especially local election officials), showing that when their incentives to not align with those of their political patrons, election integrity improves. This causal mechanism is demonstrated through statistical and election forensic analysis, showing that when local officials are punished in court for election manipulation, election integrity improves in nearby precincts in the next election.\nMy other peer-reviewed research can be found below, or via my Google Scholar profile.\n\nPeer-reviewed publications\n\nElection Manipulation in Russia, Oxford Research Encyclopedia https://dx.doi.org/10.1093/acrefore/9780190228637.013.2260 (2024)\nWhy Allow Local Elections? Mobilization, Manipulation, and the Abolition of Russian Mayoral Elections, Russian Politics https://doi.org/10.30965/24518921-00604019(2022)\n\nUngated version here.\n\nWho delivers the votes? Elected versus appointed local executives, election manipulation, and natural support for ruling parties, Electoral Studies (2022)\nCan Courts in Nondemocracies Deter Election Fraud? De Jure Judicial Independence, Political Competition, and Election Integrity, American Political Science Review (2021)\nPrincipal–Agent Dynamics and Electoral Manipulation: Local Risks, Patronage and Tactical Variation in Russian Elections, 2003–2012, Europe-Asia Studies (2020)\nMethods of Election Manipulation and the Likelihood of Post-Election Protest, Government and Opposition; with Paula Mukherjee. (2018)\nTrials, lustration, and clean elections: the uneven effects of transitional justice mechanisms on electoral manipulation, Democratization; with Claire Greenstein. (2017)\nChanges in the menu of manipulation: Electoral fraud, ballot stuffing, and voter pressure in the 2011 Russian election; Electoral Studies Vol. 41 (2016)"
+  },
+  {
+    "objectID": "book.html#implications",
+    "href": "book.html#implications",
+    "title": "Book project: The Machinery of Manipulation",
+    "section": "Implications",
+    "text": "Implications\nThe results presented in the book challenge a traditional model of election manipulation, in which an incumbent’s efforts to pad their vote-share is a sign of weakness. By integrating insights from the principal-agent literature with Simpser’s view of manipulation as a potential signal of strength, a new model emerges in which electoral manipulation in non-democracies is more-or-less incidental to the level of manipulation. It shows that electoral protest should not be conceived as a potential deterrent to election manipulation, but rather a potential accelerant. It suggests that our understanding of how elections turn into moments of democratic liberalization or autocratization hinges less on the protest capacity of the opposition, and more on the ability of ruling parties to reward their agents and shield them from personal risk. This points the way to further avenues of research for scholars, and to different policy implications for those who wish to improve citizens’ ability to hold their rulers accountable through elections."
+  }
+]
