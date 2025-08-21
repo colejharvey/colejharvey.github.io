@@ -21,7 +21,4 @@ format:
   html:
     theme: sandstone
     css: styles.css
-    include-before-body:
-      text: |
-    <script data-goatcounter="https://colejharvey.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+    include-before-body: goat-counter.html
