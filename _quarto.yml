@@ -21,4 +21,4 @@ format:
   html:
     theme: sandstone
     css: styles.css
-    include-before-body: goat-counter.html
+    include-after-body: goat-counter.html
